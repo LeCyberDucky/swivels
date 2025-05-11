@@ -5,3 +5,6 @@ edition = "2024"
 default-run = "main"
 
 [dependencies]
+color-eyre = "0.6.4"
+sysinfo = "0.35.0"
+wasapi = "0.17.0"
